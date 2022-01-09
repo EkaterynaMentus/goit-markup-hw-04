@@ -312,8 +312,8 @@ body {
   color: var(--third-color);
 }
 .our-clients {
-  margin-top: 94px;
-  margin-bottom: 94px;
+  padding-top: 94px;
+  padding-bottom: 94px;
   background-color: var(--third-color);
 }
 .our-clients-title {
